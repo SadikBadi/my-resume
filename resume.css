@@ -1,0 +1,63 @@
+.resume{
+    width: 63%;
+    border: 1px solid black;
+    margin:auto;
+    padding: 0px 15px;
+}
+h1{
+    text-align: left;
+    display: inline-block;
+}
+.PersonalDetails{
+    text-align: left;
+    padding: 0px;
+    display: inline-block;
+    margin-left: 49.5%;
+    padding-top: 30px;
+}
+h6{
+    margin: 5px;
+     ;
+}
+table{
+    border-collapse:collapse ;
+}
+.education table{
+    border: 1px solid black;
+    width: 100%;
+}
+.education th {
+    border: 1px solid black;
+    text-align: left; 
+    padding-left: 7px;
+}
+.education td {
+    border: 1px solid black;
+    padding-left: 7px;
+}
+
+.skills table{
+    border: 1px solid black;
+    width: 100%;
+}
+.skills th {
+    border: 1px solid black;
+    text-align: left; 
+    padding-left: 7px;
+}
+.skills td {
+    border: 1px solid black;
+    padding-left: 7px;
+}
+.learning h6 {
+    font-weight: 200;
+    margin: 0px 5px ;
+    display: inline-block;
+}
+.learning h4{
+    margin: 5px;
+    display: inline-block;
+}
+.profiles p{
+    padding-left: 30px;
+}
